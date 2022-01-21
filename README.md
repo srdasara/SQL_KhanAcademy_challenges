@@ -1,6 +1,6 @@
 # Intro to SQL: Querying and Managing Data
 
-This GitHub repository contains the schemas, questions and solutions to [Intro To SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql). The coursework included:
+This GitHub repository contains the schemas, questions and solutions to [Intro To SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql). The coursework includes:
 
 SQL Basics
 
